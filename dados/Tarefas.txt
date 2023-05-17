@@ -1,0 +1,28 @@
+   () Fazer planilha Hera   
+(x) Encher colunas e meio-fio
+(x) Limpar casa 2o pavimento
+(x) limpar frente da casa, próximo à local da palmeira
+( ) limpar lateral da casa 
+(x) Remanejar tijolos lateral casa
+(x..) Iniciar Sprint Hera
+
+
+(x) Enviar comprovante pgto faculdade GRH
+(x) Ativar oneDrive PC02 com conta Estácio
+( ) Instalar o Factyory Format PC 02
+( ) Instalar Astah PC 02
+( ) Testar monitores PC01 e PC02
+( ) Preparar proposta elétrica (incluir DRs e DPSs)
+
+
+
+
+( ) Compras
+	Telha plástica
+	metalom 2cm
+	impermeabilizante de alicerce
+	adaptador de tomada
+	
+
+
+http://localhost:3715/FecharOs/73527/Index?ConsultaOSEmitida=1
